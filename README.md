@@ -1,7 +1,7 @@
 # riesgo-encubierto
-Computer Vision Project on NVidia Jetson Xavier
+Computer Vision Project on Nvidia Jetson Xavier
 
-*Repositorio en Construcción*
+*Repositorio en Construcción*  
 *This repository is still under Construction*
 
 
