@@ -1,0 +1,4 @@
+pies_sin_proteccion
+cabeza_sin_proteccion
+ojos_sin_proteccion
+boca_sin_proteccion
